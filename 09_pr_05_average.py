@@ -1,0 +1,5 @@
+a = input ("Please enter the value of a")
+b = input ("Please enter the value of b")
+a = int (a)
+b= int (b)
+print ("The average of two numbers is =",(a+b)/2)

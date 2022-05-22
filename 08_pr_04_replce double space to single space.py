@@ -1,0 +1,5 @@
+name = input("Please enter your sentence.")
+# name = name.find("  ")
+Name = (" ")
+name = name.replace("  ",Name)
+print (name)
